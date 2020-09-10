@@ -1,8 +1,8 @@
 
 #!bin/bash
-#Created: 13/11/2018
-#Upgrade 12/01/2019
-#by: real strategy
+#Created: 10/09/2020
+#Upgrade 10/12/2020
+#by: kim android
 #Successful update
 #MESSAGE: Never stop learning, if you are here is out of curiosity and try to learn shell or bash with the help of google search among others and so you will have more ease of course take time but you will learn even if editing
 clear 
@@ -93,15 +93,13 @@ read foo
 8)echo ""
 echo -e "\e[1;33mCREDITS TO THE DEVELOPER\e[0m"
 echo ""
-echo -e "\e[1;31mCoder: @RealStrategy y el grupo vip RS"
+echo -e "\e[1;31mCoder: @kim Android Net Free"
 echo -e "\e[1;32m"
-echo "YOUTUBE : https://youtube.com/RealHackRWAM "
-echo "TELEGRAM: https://t.me/RealHackRWAM "
-echo "TELEGRAM: https://t.me/RealStrategyRS "
-echo "FACEBOOK: https://m.facebook.com/groups/142565756559228 "
-echo "FACEBOOK: https://m.facebook.com/RealHackRWAM "
+echo "YOUTUBE : https://www.youtube.com/channel/UCNbSbHjPyET2mStiT55xBEg "
+echo "WHATSAPP: https://chat.whatsapp.com/ELzH1ZvR3CkJ1DBcGJTWkX "
+echo "FACEBOOK: https://www.facebook.com/kimAndroidnetfree/ "
 echo ""
-echo -e "\e[1;31mMESSAJE FROM RS\e[0m"
+echo -e "\e[1;31mMESSAJE FROM KA\e[0m"
 echo ""
 echo -e "\e[1;36mNever stop learning... :)\e[0m"
 echo ""
